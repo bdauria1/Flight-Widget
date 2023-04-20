@@ -1,4 +1,4 @@
-# Rainbow Highlighted Box
+# Flight Widget
  # Sidebar Menu
  Snake-Game
 ## 🖥️ How to Run This Project
